@@ -1,4 +1,6 @@
-# Kanye
+# KANYE-GEN
+
+KANYE-GEN is an exploration of a machine learning system that is trained to create new Kanye West rap verses based on his existing catalog of lyrics and songs. The ML system is composed of a lyric generation model that can be piped into a voice generation model.
 
 ## Getting Started
 
@@ -19,7 +21,7 @@ A step by step guide that tell you how to get a development environment running.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/kazijawad/kanye.git
+git clone https://github.com/kazijawad/kanye-gen.git
 ```
 
 2. Install necessary packages, an [Anaconda](https://www.anaconda.com) environment is recommended:
@@ -40,6 +42,7 @@ jupyter notebook
 ## Built With
 
 - [TensorFlow](https://tensorflow.org)
+- [Kanye West Rap Verses Dataset](https://www.kaggle.com/datasets/viccalexander/kanyewestverses)
 
 ## Authors
 
